@@ -20,7 +20,7 @@
 
 ### 🌐 Connect with Me  
 <p align="center">
-  <a href="mailto:truongngoccuong@example.com" target="_blank">
+  <a href="mailto:cuongtn.dekiru@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/email.png" alt="Email" style="margin-right: 15px;" />
   </a>
   <a href="https://www.linkedin.com/in/truongngoccuong" target="_blank">
