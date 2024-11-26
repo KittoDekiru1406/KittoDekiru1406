@@ -23,10 +23,10 @@
   <a href="mailto:cuongtn.dekiru@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/email.png" alt="Email" style="margin-right: 15px;" />
   </a>
-  <a href="https://www.linkedin.com/in/truongngoccuong" target="_blank">
+  <a href="https://www.linkedin.com/in/tr%C6%B0%C6%A1ng-ng%E1%BB%8Dc-c%C6%B0%E1%BB%9Dng-b64a522a8/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" style="margin-right: 15px;" />
   </a>
-  <a href="https://www.facebook.com/truongngoccuong" target="_blank">
+  <a href="https://www.facebook.com/cuong.truongngoc.144" target="_blank">
     <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" />
   </a>
 </p>
