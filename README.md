@@ -10,11 +10,12 @@
 </p>
 
 ### 🌟 About Me
-- 🎓 **3rd-year Computer Science Student** at **HaNoi University of Industry**.
-- 🚀 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Business Management**.
-- 💡 Aspiring to become a **Senior AI Engineer** and ultimately a **Tech Entrepreneur**.
-- 🌏 Based in **HaNoi, Vietnam**.
-
+- 🚀 **AI Engineer (Full-stack Focus)** with a proven track record of architecting scalable, enterprise-grade Generative AI systems.
+- 🎓 **Computer Science Graduate** from HaNoi University of Industry.
+- 💡 **Current Focus**: Building secure, **self-hosted Enterprise Knowledge Bases (Multi-Agent RAG) and Real-time Omnichannel Voicebots.**
+- 🛠️ **Tech Stack**: Python, FastAPI, LangGraph, vLLM, WebSockets, RabbitMQ, Vector DBs, and Open-Source Models (Qwen, Whisper).
+- 🔥 **Goal**: Pushing the boundaries of Local/Private AI, advancing towards an **AI System Architect**, and ultimately becoming a **Tech Entrepreneur**.
+- 🌏 Based in **HaNoi, Vietnam.**
 
 ---
 
